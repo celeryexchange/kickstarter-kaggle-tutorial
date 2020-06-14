@@ -1,0 +1,7 @@
+# essentials 
+numpy
+pandas
+requests
+ipykernel
+
+# project specific
