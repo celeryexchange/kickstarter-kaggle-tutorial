@@ -1,7 +1,11 @@
 # essentials 
-numpy
-pandas
-requests
+# numpy
+# pandas
+
+# jupyter notebook related
 ipykernel
+ipython
 
 # project specific
+category_encoders
+lightgbm 
